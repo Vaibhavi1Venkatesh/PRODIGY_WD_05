@@ -25,15 +25,10 @@ This project is a clean, responsive weather web app that fetches real-time weath
 
 ---
 
+
 ## 🖼️ Screenshot
-![Screenshot 2025-06-16 143043](https://github.com/user-attachments/assets/29251b33-5efb-45e7-aded-df2188622025)
-![Screenshot 2025-06-16 143043](https://github.com/user-attachments/assets/29251b33-5efb-45e7-aded-df2188622025)
-![Screenshot 2025-06-16 143034](https://github.com/user-attachments/assets/0ca9d65e-47d5-4b2f-9bab-aca012f7418f)
-![Screenshot 2025-06-16 143034](https://github.com/user-attachments/assets/0ca9d65e-47d5-4b2f-9bab-aca012f7418f)
-![Screenshot 2025-06-16 143025](https://github.com/user-attachments/assets/2315e02c-a8b8-468c-abf1-da15bf714fc5)
-![Screenshot 2025-06-16 143025](https://github.com/user-attachments/assets/2315e02c-a8b8-468c-abf1-da15bf714fc5)
-
-
-![Uploading Screenshot 2025-06-16 143052.png…]()
-![Uploading Screenshot 2025-06-16 143052.png…]()
+![Screenshot 2025-06-16 143034](https://github.com/user-attachments/assets/11119430-f8a7-4ba1-aa80-30392d4bd499)
+![Screenshot 2025-06-16 143034](https://github.com/user-attachments/assets/11119430-f8a7-4ba1-aa80-30392d4bd499)
+![Screenshot 2025-06-16 143025](https://github.com/user-attachments/assets/0757b14e-850a-409a-bda8-08c13973585e)
+![Screenshot 2025-06-16 143025](https://github.com/user-attachments/assets/0757b14e-850a-409a-bda8-08c13973585e)
 
